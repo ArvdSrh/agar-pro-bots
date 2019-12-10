@@ -1,4 +1,4 @@
-# agar-pro-bots
+# Agar-pro-bots
 Free agar.pro bots 2020
 
 ## To Do
